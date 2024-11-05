@@ -17,6 +17,10 @@
 7. [Economy & Trading](#economy--trading)
 8. [Progression Systems](#progression-systems)
 
+## Other documentations
+1. [Technical Architecture](./TECHNICAL-ARCHITECTURE-DOCUMENTATION.md)
+2. [Gameplay Architecture](./GAMEPLAY-ARCHITECTURE.md)
+
 ## Game Introduction
 
 Kyva Online is a strategic RPG that emphasizes tactical combat, versatile character building, and social interaction. Players can continuously adapt their playstyle through different equipment and skill combinations, participate in various PvE and PvP content, and engage in a player-driven economy.
