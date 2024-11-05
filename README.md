@@ -133,25 +133,25 @@ flowchart TB
     Normal --> Offline[Offline Mode]
     Normal --> Online[Online Mode]
     
-    Offline --> OfflineFeatures["Default loadout
-    6 preset skills
-    Automated combat"]
+    Offline --> OfflineFeatures[["Default loadout,
+    6 preset skills,
+    Automated combat"]]
     
-    Online --> OnlineFeatures["Free loadout choice
-    All available skills
-    Real-time combat"]
+    Online --> OnlineFeatures[["Free loadout choice,
+    All available skills,
+    Real-time combat"]]
     
     Ranked --> RankedNormal[Standard Ranked]
     Ranked --> RankedSync[Synchronized Ranked]
     
-    RankedNormal --> RankedProcess["1. RPS for first turn
-    2. Loadout bans
-    3. Skill bans
-    4. 6 skill selection"]
+    RankedNormal --> RankedProcess[["RPS for first turn,
+    Loadout bans,
+    Skill bans,
+    6 skill selection"]]
     
-    RankedSync --> SyncFeatures["Equalized gear stats
-    Same ban system
-    Pure strategy focus"]
+    RankedSync --> SyncFeatures[["Equalized gear stats,
+    Same ban system,
+    Pure strategy focus"]]
 ```
 
 #### PvP Modes Detail
